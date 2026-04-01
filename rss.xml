@@ -16,5 +16,15 @@
       <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Annonce 2</title>
+      <link>https://vivamorhange.github.io/rss/annonce-2</link>
+      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-2</guid>
+      <description><![CDATA[
+        Ceci est un test de lecture de Viva Morhange
+      ]]></description>
+      <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
