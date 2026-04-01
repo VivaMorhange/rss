@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Viva Morhange</title>
+    <link>https://vivamorhange.github.io/rss/</link>
+    <description>Flux RSS des annonces Viva Morhange</description>
+    <language>fr-fr</language>
+
+    <item>
+      <title>Annonce 1</title>
+      <link>https://vivamorhange.github.io/rss/annonce-1</link>
+      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-1</guid>
+      <description><![CDATA[
+        Résumé annonce 1
+      ]]></description>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
