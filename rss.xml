@@ -8,7 +8,8 @@
     <language>fr-fr</language>
     <item>
       <title>Bienvenue</title>
-      <pubDate>Fri, 3 Apr 2026 11:10:16 +0200</pubDate>
+      <pubDate>ven., 3 avr. 2026 11:10:16 +0200</pubDate>
+      <enclosure url="https://vivamorhange.github.io/rss/audio/Mozart Requiem – Lacrimosa SO GC CM Berlin.mp3" length="4197000" type="audio/mpeg" />
       <description><![CDATA[Bienvenue sur Viva Morhange.]]></description>
     </item>
     <item>
@@ -106,6 +107,12 @@ Un geste qui montre que l’intérêt général passe avant le confort personnel
 La transparence n’est pas un luxe.
 C’est un droit citoyen.
 Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles. Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus. Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.]]></description>
+    </item>
+    <item>
+      <title>Mozart</title>
+      <pubDate>Fri, 3 Apr 2026 20:38:13 +0200</pubDate>
+      <enclosure url="https://vivamorhange.github.io/rss/audio/Mozart Requiem – Lacrimosa SO GC CM Berlin.mp3" length="4197000" type="audio/mpeg" />
+      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>
