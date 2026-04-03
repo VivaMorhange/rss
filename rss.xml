@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
+    <generator>RSS Builder by B!Soft</generator>
     <title>Viva Morhange</title>
-    <link>https://vivamorhange.github.io/rss/</link>
-    <description>Flux RSS des annonces Viva Morhange</description>
+    <link>https://vivamorhange.github.io/rss/rss.xml</link>
+    <description>La Voix des Morhageois</description>
     <language>fr-fr</language>
-
-  <item>
-      <title>Annonce</title>
-      <link>https://vivamorhange.github.io/rss/annonce-2</link>
-      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-2</guid>
-      <description><![CDATA[
-
-        Pour une gestion transparente : votre avis compte.
+    <item>
+      <title>Bienvenue</title>
+      <pubDate>Fri, 3 Apr 2026 11:10:16 +0200</pubDate>
+      <description><![CDATA[Bienvenue sur Viva Morhange]]></description>
+    </item>
+    <item>
+      <title>Pour une gestion transparente : votre avis compte.</title>
+      <pubDate>Fri, 3 Apr 2026 11:10:04 +0200</pubDate>
+      <description><![CDATA[Pour une gestion transparente : votre avis compte.
 Dans une commune, l’argent public appartient aux habitants.
 Il ne devrait jamais être utilisé comme un portefeuille privé, ni comme une carte bancaire invisible dont personne ne voit les relevés.
 C’est pour cela que la transparence est indispensable.
@@ -31,80 +33,7 @@ Un geste symbolique, mais fort.
 Un geste qui montre que l’intérêt général passe avant le confort personnel.
 La transparence n’est pas un luxe.
 C’est un droit citoyen.
-Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles. Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus. Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.
-
-      ]]></description>
-      <pubDate>Wed, 01 Apr 2026 20:35:00 GMT</pubDate>
+Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles. Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus. Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.]]></description>
     </item>
-
-
-
-    <item>
-      <title>Annonce</title>
-      <link>https://vivamorhange.github.io/rss/annonce-1</link>
-      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-1</guid>
-      <description><![CDATA[
-
-        Morhange ou zone de guerre ?
-Une petite rue de Morhange est condamnée par des blocs de béton, officiellement pour des excès de vitesse.
-Une rue tellement étroite qu’on se demande encore comment quelqu’un a pu y atteindre la 3ième vitesse.
-Certains riverains sont contents, forcement...
-Mais il n’y a pas que les riverains : Les habitants des quartiers voisins doivent maintenant faire un détour dans la ville pour contourner ce barrage.
-Pour un bout de rue de quelques mètres, on a réussi à compliquer la vie de tout un secteur.
-Et soyons honnêtes : des blocs de béton en travers d’une rue, ça ne ressemble pas vraiment à Morhange.
-On se croirait plutôt dans une zone de guerre, un checkpoint improvisé, ou un quartier “sensible” de Marseille où l’on bloque les accès pour éviter les règlements de comptes.
-Il ne manque plus que les sacs de sable.
-Pendant ce temps, deux rues où la vitesse est un vrai danger restent totalement sans aménagement :
-Rue Poincaré : tout le monde sait que ça roule trop vite, piétons compris.
-Rue Albert‑Schweitzer : même problème, même insécurité, même absence totale de mesures.
-Pas de ralentisseur.
-Pas de chicane.
-Pas de coussin berlinois.
-Et pas même un stop, pourtant ça, c’est une grande passion locale.
-D’habitude, on en met partout, même là où personne n’en veut… sauf là où ce serait utile.
-Alors pourquoi bloquer une petite rue sans réel danger, et laisser deux rues réellement problématiques sans aucune mesure.
-La logique échappe à beaucoup d’habitants.
-On veut votre avis. 
-
-      ]]></description>
-      <pubDate>Wed, 01 Apr 2026 20:35:00 GMT</pubDate>
-    </item>
-
-  <item>
-      <title>Annonce</title>
-      <link>https://vivamorhange.github.io/rss/annonce-2</link>
-      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-2</guid>
-      <description><![CDATA[
-Sécurité à Morhange : votre avis compte.
-La sécurité d’une ville repose sur plusieurs acteurs : les habitants, la commune… et bien sûr notre gendarmerie, qui joue un rôle essentiel au quotidien.
-Ces dernières années, beaucoup ressentent une dégradation du climat sécuritaire.
-Face à certaines situations ou certaines personnes, notre gendarmerie semble parfois impuissante, et cela interroge.
-L’objectif de ce sondage n’est pas de juger, mais de comprendre.
-Comprendre ce qui fonctionne, ce qui manque, et ce que les habitants vivent réellement.
-Selon vous, la gendarmerie est‑elle efficace aujourd’hui ?
-       
-      ]]></description>
-      <pubDate>Wed, 01 Apr 2026 20:35:00 GMT</pubDate>
-    </item>
-
-   <item>
-      <title>Annonce</title>
-      <link>https://vivamorhange.github.io/rss/annonce-2</link>
-      <guid isPermaLink="true">https://vivamorhange.github.io/rss/annonce-2</guid>
-      <description><![CDATA[
-Morhange avait un lycée professionnel.  
-Un vrai outil pour former des soudeurs, chaudronniers, assembleurs au plan, électriciens, menuisiers PVC‑alu, techniciens de maintenance…  
-Des métiers essentiels, recherchés, et dont notre territoire manque cruellement.
-Sa fermeture reste un immense gâchis.  
-Faute d’une volonté locale forte, nous avons laissé partir une filière qui formait ici même la main‑d’œuvre dont nos entreprises ont besoin.  
-Un choix dont on mesure aujourd’hui les conséquences.
-L’arrivée d’un CFA dans les anciens locaux est une bonne nouvelle.  
-Mais cela ne doit pas masquer la réalité : nous avons perdu un lycée professionnel complet, ancré dans la commune, qui aurait pu continuer à offrir des débouchés solides à nos jeunes et soutenir l’économie locale.
-Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les mêmes erreurs.       
-      ]]></description>
-      <pubDate>Wed, 01 Apr 2026 20:35:00 GMT</pubDate>
-    </item>
-
-
   </channel>
 </rss>
