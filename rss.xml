@@ -9,7 +9,6 @@
     <item>
       <title>Bienvenue</title>
       <pubDate>Sat, 4 Apr 2026 13:10:29 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/Mozart Requiem – Lacrimosa SO GC CM Berlin.mp3" length="4197000" type="audio/mpeg" />
       <description><![CDATA[Bienvenue sur Viva Morhange.
 
 Viva Morhange vous souhaite de belles fêtes de Pâques !  
@@ -102,13 +101,11 @@ Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les
 A bientot sur Viva Morhange.
 ]]></description>
     </item>
-       <item>
+    <item>
       <title>Elvis</title>
       <pubDate>Sat, 4 Apr 2026 10:35:24 +0200</pubDate>
       <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/01 Heartbreak Hotel.mp3" length="2022000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
-   
-
     </item>
   </channel>
 </rss>
