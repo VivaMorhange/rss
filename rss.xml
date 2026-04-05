@@ -8,8 +8,8 @@
     <language>fr-fr</language>
     <item>
       <title>Bienvenue</title>
-      <pubDate>sam., 4 avr. 2026 13:10:29 +0200</pubDate>
-       <content:encoded><![CDATA[Bienvenue sur Viva Morhange.
+      <pubDate>Sun, 5 Apr 2026 09:21:23 +0200</pubDate>
+      <description><![CDATA[Bienvenue sur Viva Morhange.
 
 Viva Morhange vous souhaite de belles fêtes de Pâques !  
 Un week‑end pour se reposer, profiter de nos proches… et pourquoi pas découvrir un coin de Morhange que vous aimez.
@@ -99,12 +99,22 @@ Mais cela ne doit pas masquer la réalité : nous avons perdu un lycée professi
 Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les mêmes erreurs.
 
 A bientot sur Viva Morhange.
-]]></content:encoded>
+]]></description>
+    </item>
+    <item>
+      <title>Dédicaces citoyennes</title>
+      <pubDate>Sun, 5 Apr 2026 09:19:19 +0200</pubDate>
+      <description><![CDATA[Nouveauté Viva Morhange !
+Nos annonces Alexa peuvent inclure vos dédicaces citoyennes.
+Un anniversaire, un merci, un clin d’œil, une pensée pour un voisin ou une équipe ?
+Envoyez votre message en MP sur la page Viva Morhange, et il sera lu par la voix d’Alexa dans nos prochaines annonces vocales.
+Parce qu’à Morhange, même la technologie sait dire “bravo”, “merci” et “on pense à vous”
+Une façon simple, moderne et conviviale de faire entendre vos voix… autrement.]]></description>
     </item>
     <item>
       <title>Elvis</title>
-      <pubDate>Sat, 4 Apr 2026 10:35:24 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/ELV1S.mp3" length="73021000" type="audio/mpeg" />
+      <pubDate>Sun, 5 Apr 2026 10:35:24 +0200</pubDate>
+      <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3" length="1947000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
     </item>
   </channel>
