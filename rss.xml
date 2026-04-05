@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Viva Morhange</title>
     <link>https://vivamorhange.github.io/rss/rss.xml</link>
     <description>La Voix des Morhageois</description>
     <language>fr-fr</language>
+
+    <!-- ITEM 1 -->
     <item>
       <title>Bienvenue</title>
       <pubDate>Sun, 5 Apr 2026 09:21:23 +0200</pubDate>
 
- <description><![CDATA[
+      <!-- Résumé court -->
+      <description><![CDATA[
         Bienvenue sur Viva Morhange. Découvrez nos annonces, sondages et actualités citoyennes.
       ]]></description>
 
+      <!-- Texte complet -->
       <content:encoded><![CDATA[
 Bienvenue sur Viva Morhange.
 
-Viva Morhange vous souhaite de belles fêtes de Pâques !  
+Viva Morhange vous souhaite de belles fêtes de Pâques !
 Un week‑end pour se reposer, profiter de nos proches… et pourquoi pas découvrir un coin de Morhange que vous aimez.
 Prenez soin de vous.
 
@@ -43,15 +47,16 @@ Un geste symbolique, mais fort.
 Un geste qui montre que l’intérêt général passe avant le confort personnel.
 La transparence n’est pas un luxe.
 C’est un droit citoyen.
-Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles. Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus. Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.
+Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles.
+Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus.
+Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.
 
 Sondage :
 
 Morhange ou zone de guerre ?
 Une petite rue de Morhange est condamnée par des blocs de béton, officiellement pour des excès de vitesse.
-
 Une rue tellement étroite qu’on se demande encore comment quelqu’un a pu y atteindre la 3ième vitesse.
-Certains riverains sont contents, forcement...
+Certains riverains sont contents, forcément...
 Mais il n’y a pas que les riverains : Les habitants des quartiers voisins doivent maintenant faire un détour dans la ville pour contourner ce barrage.
 Pour un bout de rue de quelques mètres, on a réussi à compliquer la vie de tout un secteur.
 Et soyons honnêtes : des blocs de béton en travers d’une rue, ça ne ressemble pas vraiment à Morhange.
@@ -95,19 +100,22 @@ chaque expérience compte, que vous soyez habitant, commerçant ou simple visite
 
 Annonce :
 
-Morhange avait un lycée professionnel.  
-Un vrai outil pour former des soudeurs, chaudronniers, assembleurs au plan, électriciens, menuisiers PVC‑alu, techniciens de maintenance…  
+Morhange avait un lycée professionnel.
+Un vrai outil pour former des soudeurs, chaudronniers, assembleurs au plan, électriciens, menuisiers PVC‑alu, techniciens de maintenance…
 Des métiers essentiels, recherchés, et dont notre territoire manque cruellement.
-Sa fermeture reste un immense gâchis.  
-Faute d’une volonté locale forte, nous avons laissé partir une filière qui formait ici même la main‑d’œuvre dont nos entreprises ont besoin.  
+Sa fermeture reste un immense gâchis.
+Faute d’une volonté locale forte, nous avons laissé partir une filière qui formait ici même la main‑d’œuvre dont nos entreprises ont besoin.
 Un choix dont on mesure aujourd’hui les conséquences.
-L’arrivée d’un CFA dans les anciens locaux est une bonne nouvelle.  
+L’arrivée d’un CFA dans les anciens locaux est une bonne nouvelle.
 Mais cela ne doit pas masquer la réalité : nous avons perdu un lycée professionnel complet, ancré dans la commune, qui aurait pu continuer à offrir des débouchés solides à nos jeunes et soutenir l’économie locale.
 Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les mêmes erreurs.
 
-A bientot sur Viva Morhange.
- ]]></content:encoded>
+À bientôt sur Viva Morhange.
+      ]]></content:encoded>
+
     </item>
+
+    <!-- ITEM 2 -->
     <item>
       <title>Dédicaces citoyennes</title>
       <pubDate>Sun, 5 Apr 2026 09:19:19 +0200</pubDate>
@@ -118,11 +126,14 @@ Envoyez votre message en MP sur la page Viva Morhange, et il sera lu par la voix
 Parce qu’à Morhange, même la technologie sait dire “bravo”, “merci” et “on pense à vous”
 Une façon simple, moderne et conviviale de faire entendre vos voix… autrement.]]></description>
     </item>
+
+    <!-- ITEM 3 -->
     <item>
       <title>Elvis</title>
       <pubDate>Sun, 5 Apr 2026 10:35:24 +0200</pubDate>
       <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3" length="1947000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
     </item>
+
   </channel>
 </rss>
