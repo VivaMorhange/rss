@@ -8,7 +8,7 @@
     <language>fr-fr</language>
     <item>
       <title>Annonce 1</title>
-      <pubDate>Sun, 5 Apr 2026 18:38:33 +0200</pubDate>
+      <pubDate>Mon, 6 Apr 2026 10:43:58 +0200</pubDate>
       <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.
 
 Viva Morhange vous souhaite de belles fêtes de Pâques !  
@@ -68,7 +68,7 @@ Selon vous, couper la rue avec des blocs de béton est‑ce une bonne décision.
     </item>
     <item>
       <title>Annonce 2</title>
-      <pubDate>Sun, 5 Apr 2026 18:38:11 +0200</pubDate>
+      <pubDate>Mon, 6 Apr 2026 18:38:11 +0200</pubDate>
       <description><![CDATA[Sondage :
 
 Sécurité à Morhange : votre avis compte.
@@ -107,8 +107,37 @@ Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les
 A bientot sur Viva Morhange.]]></description>
     </item>
     <item>
+      <title>CONSEIL MUNICIPAL</title>
+      <pubDate>Mon, 6 Apr 2026 10:40:38 +0200</pubDate>
+      <description><![CDATA[CONSEIL MUNICIPAL
+
+Compte rendu de la séance du 8 ianvier 2026
+Le Conseil Municipal s'est réuni à 19h00 à l'Hôtel de ville,
+
+Sous la présidence de Monsieur Christian STINCO, Maire de Morhange.
+
+ORDRE DU JOUR
+
+Vie Communale :
+
+1- Fléchage écoles - Syndicat scolaire Virming
+2 - Servitude Enedis
+
+Finances :
+
+
+3 - Décision modificative n"1 - Cité des Jardins.
+4 - Décision modificative n'6 - Bud8et Principal.
+5 - Cartes de pêche : contribution à la vente de cartes à la journée dans des points de vente.
+6 - Versement d'une subvention exceptionnelle au collège de Morhange l'Arboretum.
+7 - Paintball- Remise gracieuse du titre de recette pour la taxe foncière 2025 Avenant 3 bail commercial.
+8 - Hôtel Restaurant - Remise gracieuse du titre de recette pour la taxe foncière 2025.
+9 - Vente d'une parcelle communale.
+10 - Divers.]]></description>
+    </item>
+    <item>
       <title>Dédicaces citoyennes</title>
-      <pubDate>Sun, 5 Apr 2026 09:19:19 +0200</pubDate>
+      <pubDate>Mon, 6 Apr 2026 09:19:19 +0200</pubDate>
       <description><![CDATA[Nouveauté Viva Morhange !
 Nos annonces Alexa peuvent inclure vos dédicaces citoyennes.
 Un anniversaire, un merci, un clin d’œil, une pensée pour un voisin ou une équipe ?
@@ -118,7 +147,7 @@ Une façon simple, moderne et conviviale de faire entendre vos voix… autrement
     </item>
     <item>
       <title>Elvis</title>
-      <pubDate>Sun, 5 Apr 2026 10:35:24 +0200</pubDate>
+      <pubDate>Mon, 6 Apr 2026 10:35:24 +0200</pubDate>
       <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3" length="1947000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
     </item>
