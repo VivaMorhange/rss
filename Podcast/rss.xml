@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Viva Morhange</title>
+    <link>https://vivamorhange.github.io/rss/rss.xml</link>
+    <description>La Voix des Morhangeois</description>
+    <language>fr-fr</language>
+
+    <!-- Balises Podcast -->
+    <itunes:author>Viva Morhange</itunes:author>
+    <itunes:summary>La Voix des Morhangeois : annonces, débats, actualités citoyennes.</itunes:summary>
+
+    <itunes:owner>
+      <itunes:name>Viva Morhange</itunes:name>
+      <itunes:email>vivamorhange@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Image du podcast (à créer et déposer dans /rss/) -->
+    <itunes:image href="https://vivamorhange.github.io/rss/podcast.jpg" />
+
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Épisodes -->
+    <item>
+      <title>Annonce 1</title>
+      <pubDate>Mon, 6 Apr 2026 10:43:58 +0200</pubDate>
+      <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.
+
+Viva Morhange vous souhaite de belles fêtes de Pâques !  
+Un week‑end pour se reposer, profiter de nos proches… et pourquoi pas découvrir un coin de Morhange que vous aimez.
+Prenez soin de vous.
+
+Sondage :
+
+Pour une gestion transparente : votre avis compte.
+Dans une commune, l’argent public appartient aux habitants.
+Il ne devrait jamais être utilisé comme un portefeuille privé, ni comme une carte bancaire invisible dont personne ne voit les relevés.
+C’est pour cela que la transparence est indispensable.
+Trop souvent, lorsqu’il s’agit de financer des travaux dans une école, d’installer des caméras de sécurité, de réparer des équipements publics ou d’améliorer le quotidien des habitants, on entend la même phrase : “Les comptes sont à sec.”
+Étrangement, les comptes sont “à sec” pour la sécurité, l’éducation ou les services essentiels…
+mais jamais pour : les frais de bouche, les repas pris “sur la commune”, les notes de frais discrètes, ou encore les cadeaux et petites attentions offerts par la collectivité.
+Et tout le monde a déjà vu cette scène : un élu ou un adjoint au restaurant, l’addition arrive, et d’un simple geste de la main, on indique au restaurateur : “On met ça sur la commune.”
+Un geste rapide, discret… mais payé par tous les habitants.
+C’est précisément pour éviter ces pratiques que la transparence est essentielle.
+Si les citoyens savaient où va chaque euro,
+si les dépenses étaient publiées clairement,
+si les repas, les cadeaux, les indemnités et les frais étaient accessibles à tous, alors chacun pourrait vérifier si la commune est réellement gérée avec rigueur…
+ou si l’argent public s’évapore dans des postes moins prioritaires.
+Et lorsqu’un élu bénéficie déjà d’une retraite confortable, renoncer à une partie de ses indemnités serait un geste d’exemplarité.
+Un geste symbolique, mais fort.
+Un geste qui montre que l’intérêt général passe avant le confort personnel.
+La transparence n’est pas un luxe.
+C’est un droit citoyen.
+Et c’est ce qui évite les excuses faciles, les comptes ‘à sec’ au mauvais moment et les dépenses invisibles. Plus les citoyens ont un droit de regard, plus la gestion est vigilante… et moins il y a de place pour les abus. Parce qu’on est tous d’accord sur une chose : l’argent public, ce n’est pas censé être open bar.
+
+Sondage :
+
+Morhange ou zone de guerre ?
+Une petite rue de Morhange est condamnée par des blocs de béton, officiellement pour des excès de vitesse.
+
+Une rue tellement étroite qu’on se demande encore comment quelqu’un a pu y atteindre la 3ième vitesse.
+Certains riverains sont contents, forcement...
+Mais il n’y a pas que les riverains : Les habitants des quartiers voisins doivent maintenant faire un détour dans la ville pour contourner ce barrage.
+Pour un bout de rue de quelques mètres, on a réussi à compliquer la vie de tout un secteur.
+Et soyons honnêtes : des blocs de béton en travers d’une rue, ça ne ressemble pas vraiment à Morhange.
+On se croirait plutôt dans une zone de guerre, un checkpoint improvisé, ou un quartier “sensible” de Marseille où l’on bloque les accès pour éviter les règlements de comptes.
+Il ne manque plus que les sacs de sable.
+Pendant ce temps, deux rues où la vitesse est un vrai danger restent totalement sans aménagement :
+Rue Poincaré : tout le monde sait que ça roule trop vite, piétons compris.
+Rue Albert‑Schweitzer : même problème, même insécurité, même absence totale de mesures.
+Pas de ralentisseur.
+Pas de chicane.
+Pas de coussin berlinois.
+Et pas même un stop, pourtant ça, c’est une grande passion locale.
+D’habitude, on en met partout, même là où personne n’en veut… sauf là où ce serait utile.
+Alors pourquoi bloquer une petite rue sans réel danger, et laisser deux rues réellement problématiques sans aucune mesure.
+La logique échappe à beaucoup d’habitants.
+On veut votre avis.
+Selon vous, couper la rue avec des blocs de béton est‑ce une bonne décision.
+]]></description>
+    </item>
+
+    <item>
+      <title>Annonce 2</title>
+      <pubDate>Mon, 6 Apr 2026 18:38:11 +0200</pubDate>
+      <description><![CDATA[Sondage :
+
+Sécurité à Morhange : votre avis compte.
+La sécurité d’une ville repose sur plusieurs acteurs : les habitants, la commune… et bien sûr notre gendarmerie, qui joue un rôle essentiel au quotidien.
+Ces dernières années, beaucoup ressentent une dégradation du climat sécuritaire.
+Face à certaines situations ou certaines personnes, notre gendarmerie semble parfois impuissante, et cela interroge.
+L’objectif de ce sondage n’est pas de juger, mais de comprendre.
+Comprendre ce qui fonctionne, ce qui manque, et ce que les habitants vivent réellement.
+Selon vous, la gendarmerie est‑elle efficace aujourd’hui ?
+
+Sondage :
+
+Le Marché de Morhange
+Il y a plusieurs années, la mairie a décidé de déplacer le marché hebdomadaire de la place Bérot vers le parking du centre socioculturel.
+Depuis ce changement, le marché s’est fortement réduit : moins de vendeurs, moins de clients, moins de vie.
+Aujourd’hui, beaucoup se demandent si ce déplacement a vraiment été bénéfique pour Morhange.
+Pour avancer ensemble, nous aimerions connaître votre avis.
+Le marché doit-il rester à son emplacement actuel, ou revenir sur la place Bérot, plus large, plus visible et historiquement dédiée au marché... et sécurisée si besoin ?
+
+Pour que ce sondage reflète vraiment la voix de la ville, n’hésitez pas à le partager autour de vous : plus il circule, plus l’avis collectif sera lisible.
+Vous pouvez aussi expliquer votre choix en commentaire :
+chaque expérience compte, que vous soyez habitant, commerçant ou simple visiteur du marché.
+
+Annonce :
+
+Morhange avait un lycée professionnel.  
+Un vrai outil pour former des soudeurs, chaudronniers, assembleurs au plan, électriciens, menuisiers PVC‑alu, techniciens de maintenance…  
+Des métiers essentiels, recherchés, et dont notre territoire manque cruellement.
+Sa fermeture reste un immense gâchis.  
+Faute d’une volonté locale forte, nous avons laissé partir une filière qui formait ici même la main‑d’œuvre dont nos entreprises ont besoin.  
+Un choix dont on mesure aujourd’hui les conséquences.
+L’arrivée d’un CFA dans les anciens locaux est une bonne nouvelle.  
+Mais cela ne doit pas masquer la réalité : nous avons perdu un lycée professionnel complet, ancré dans la commune, qui aurait pu continuer à offrir des débouchés solides à nos jeunes et soutenir l’économie locale.
+Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les mêmes erreurs.
+
+A bientot sur Viva Morhange.
+]]></description>
+    </item>
+
+    <item>
+      <title>CONSEIL MUNICIPAL</title>
+      <pubDate>Mon, 6 Apr 2026 10:40:38 +0200</pubDate>
+      <description><![CDATA[CONSEIL MUNICIPAL DE MORHANGE
+
+Voici l’ordre du jour du conseil municipal du 8 janvier 2026.
+Pour rendre ces décisions plus lisibles et permettre à chacun de s’exprimer, nous vous proposons un sondage point par point.
+
+Ce sondage n’a pas de valeur décisionnelle, mais il permet aux Morhangeois d’exprimer leur avis sur les décisions prises. Vos réponses serviront à éclairer les débats et les choix futurs.
+
+Compte rendu complet disponible dans les fichiers.
+
+ORDRE DU JOUR
+
+Vie Communale :
+
+1- Fléchage écoles - Syndicat scolaire Virming
+2 - Servitude Enedis
+
+Finances :
+
+3 - Décision modificative n"1 - Cité des Jardins.
+4 - Décision modificative n'6 - Budget Principal.
+5 - Cartes de pêche : contribution à la vente de cartes à la journée dans des points de vente.
+6 - Versement d'une subvention exceptionnelle au collège de Morhange l'Arboretum.
+7 - Paintball- Remise gracieuse du titre de recette pour la taxe foncière 2025 Avenant 3 bail commercial.
+8 - Hôtel Restaurant - Remise gracieuse du titre de recette pour la taxe foncière 2025.
+9 - Vente d'une parcelle communale.
+10 - Divers.
+]]></description>
+    </item>
+
+    <item>
+      <title>Dédicaces citoyennes</title>
+      <pubDate>Mon, 6 Apr 2026 09:19:19 +0200</pubDate>
+      <description><![CDATA[Nouveauté Viva Morhange !
+Nos annonces Alexa peuvent inclure vos dédicaces citoyennes.
+Un anniversaire, un merci, un clin d’œil, une pensée pour un voisin ou une équipe ?
+Envoyez votre message en MP sur la page Viva Morhange, et il sera lu par la voix d’Alexa dans nos prochaines annonces vocales.
+Parce qu’à Morhange, même la technologie sait dire “bravo”, “merci” et “on pense à vous”
+Une façon simple, moderne et conviviale de faire entendre vos voix… autrement.
+]]></description>
+    </item>
+
+    <item>
+      <title>Elvis</title>
+      <pubDate>Mon, 6 Apr 2026 10:35:24 +0200</pubDate>
+      <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3" length="1947000" type="audio/mpeg" />
+      <description><![CDATA[]]></description>
+    </item>
+
+  </channel>
+</rss>
