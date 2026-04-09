@@ -8,7 +8,7 @@
     <language>fr-fr</language>
     <item>
       <title>Annonce 1</title>
-      <pubDate>Tue, 7 Apr 2026 17:03:08 +0200</pubDate>
+      <pubDate>Thu, 9 Apr 2026 19:33:07 +0200</pubDate>
       <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.
 
 Sondage :
@@ -64,7 +64,7 @@ Selon vous, couper la rue avec des blocs de béton est‑ce une bonne décision.
     </item>
     <item>
       <title>Annonce 2</title>
-      <pubDate>Tue, 7 Apr 2026 18:38:11 +0200</pubDate>
+      <pubDate>Thu, 9 Apr 2026 18:38:11 +0200</pubDate>
       <description><![CDATA[Sondage :
 
 Sécurité à Morhange : votre avis compte.
@@ -102,7 +102,7 @@ Reconnaître ce gâchis, c’est la première étape pour ne plus reproduire les
     </item>
     <item>
       <title>CONSEIL MUNICIPAL</title>
-      <pubDate>Tue, 7 Apr 2026 10:40:38 +0200</pubDate>
+      <pubDate>Thu, 9 Apr 2026 10:40:38 +0200</pubDate>
       <description><![CDATA[CONSEIL MUNICIPAL DE MORHANGE
 
 
@@ -136,7 +136,7 @@ Finances :
     </item>
     <item>
       <title>Dédicaces citoyennes</title>
-      <pubDate>Tue, 7 Apr 2026 09:19:19 +0200</pubDate>
+      <pubDate>Thu, 9 Apr 2026 09:19:19 +0200</pubDate>
       <description><![CDATA[Nouveauté Viva Morhange !
 Nos annonces Alexa peuvent inclure vos dédicaces citoyennes.
 Un anniversaire, un merci, un clin d’œil, une pensée pour un voisin ou une équipe ?
@@ -147,10 +147,10 @@ Une façon simple, moderne et conviviale de faire entendre vos voix… autrement
 A bientôt sur Viva Morhange]]></description>
     </item>
     <item>
-      <title>Elvis</title>
-      <pubDate>Tue, 7 Apr 2026 10:35:24 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3" length="1947000" type="audio/mpeg" />
-      <description><![CDATA[]]></description>
+      <title>EricGerard</title>
+      <pubDate>Thu, 9 Apr 2026 10:35:24 +0200</pubDate>
+      <enclosure url="https://vivamorhange.github.io/rss/audio/EricGerard.mp3" length="2134000" type="audio/mpeg" />
+      <description><![CDATA[Portrait :]]></description>
     </item>
   </channel>
 </rss>
