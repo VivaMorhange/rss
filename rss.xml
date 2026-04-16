@@ -7,6 +7,11 @@
     <description>La Voix des Morhageois</description>
     <language>fr-fr</language>
     <item>
+      <title>Annonce 1</title>
+      <pubDate>Thu, 16 Apr 2026 10:09:56 +0200</pubDate>
+      <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.]]></description>
+    </item>
+    <item>
       <title>Pour une gestion transparente</title>
       <pubDate>Thu, 16 Apr 2026 10:15:41 +0200</pubDate>
       <enclosure url="https://vivamorhange.github.io/rss/audio/MorhangeOuZoneDeGuerre.mp3" length="2132000" type="audio/mpeg" />
@@ -17,48 +22,6 @@
       <pubDate>Thu, 16 Apr 2026 10:35:24 +0200</pubDate>
       <enclosure url="https://vivamorhange.github.io/rss/audio/MorhangeOuZoneDeGuerre.mp3" length="1576000" type="audio/mpeg" />
       <description><![CDATA[Portrait :]]></description>
-    </item>
-    <item>
-      <title>Annonce 1</title>
-      <pubDate>Thu, 16 Apr 2026 10:09:56 +0200</pubDate>
-      <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.
-
-Sondage :
-
-STOP, Rue du Général de Castelnau.
-Les habitants ont parlé.
-
-Ces dernières années, plusieurs aménagements de circulation ont été installés… puis modifiés à Morhange.
-La question des panneaux STOP, rue du Général de Castelnau, fait partie des sujets sur lesquels les habitants souhaitent être entendus.
-
-Résultats du sondage citoyen :  
-Supprimés : 16 votes.
-Réévalués ou adaptés : 9 votes.
-Consultation des habitants avant toute décision : 27 votes.
-
-La majorité des participants demandent donc, une réévaluation, ou une suppression des STOP.
-
-Ce sondage avait un objectif simple :
-recueillir l’avis des habitants sur les alternatives possibles,
-et sur la manière dont les décisions devraient être prises.
-
-Les résultats ont été transmis à Monsieur le Maire.
-À ce jour… aucune réponse n’a été apportée.
-
-En tant que maire, Monsieur Stinco a la responsabilité d’écouter toutes les voix citoyennes.
-Y compris celles qui demandent simplement…
-d’être consultées avant de nouveaux aménagements.
-
-Les Morhangeois attendent maintenant…
-une réaction claire.
-
-Nouveau sondage.
-Votre ressenti face à l’absence de réponse.
-
-Afin de comprendre comment les habitants perçoivent cette situation, nous vous invitons à donner votre avis.
-
-Comment percevez‑vous l’absence de réponse du maire suite au sondage transmis.
-]]></description>
     </item>
     <item>
       <title>Annonce 2</title>
