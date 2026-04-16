@@ -1,70 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
-  <channel>
-    <title>Viva Morhange</title>
-    <link>https://vivamorhange.github.io/rss/Podcast/rss.xml</link>
-    <description>La Voix des Morhangeois</description>
-    <language>fr-fr</language>
-    <generator>Viva Morhange Podcast Builder</generator>
-
-    <!-- Informations Podcast -->
-    <itunes:author>Viva Morhange</itunes:author>
-    <itunes:summary>La Voix des Morhangeois : annonces, débats, actualités citoyennes.</itunes:summary>
-
-    <itunes:owner>
-      <itunes:name>Viva Morhange</itunes:name>
-      <itunes:email>vivamorhange@gmail.com</itunes:email>
-    </itunes:owner>
-
-    <!-- Image du podcast (à déposer dans /rss/Podcast/) -->
-    <itunes:image href="https://vivamorhange.github.io/rss/Podcast/podcast.jpg" />
-
-    <itunes:explicit>no</itunes:explicit>
-
-    <!-- Épisodes -->
-    <item>
-      <title>Annonce 1</title>
-      <pubDate>Mon, 6 Apr 2026 10:43:58 +0200</pubDate>
-      <description><![CDATA[
-(ton texte complet ici — inchangé)
-]]></description>
-    </item>
-
-    <item>
-      <title>Annonce 2</title>
-      <pubDate>Mon, 6 Apr 2026 18:38:11 +0200</pubDate>
-      <description><![CDATA[
-(ton texte complet ici — inchangé)
-]]></description>
-    </item>
-
-    <item>
-      <title>CONSEIL MUNICIPAL</title>
-      <pubDate>Mon, 6 Apr 2026 10:40:38 +0200</pubDate>
-      <description><![CDATA[
-(ton texte complet ici — inchangé)
-]]></description>
-    </item>
-
-    <item>
-      <title>Dédicaces citoyennes</title>
-      <pubDate>Mon, 6 Apr 2026 09:19:19 +0200</pubDate>
-      <description><![CDATA[
-(ton texte complet ici — inchangé)
-]]></description>
-    </item>
-
-    <item>
-      <title>Elvis – Don't Be Cruel</title>
-      <pubDate>Mon, 6 Apr 2026 10:35:24 +0200</pubDate>
-      <enclosure 
-        url="https://vivamorhange.github.io/rss/audio/ElvisPresley/02 Don't Be Cruel.mp3"
-        length="1947000"
-        type="audio/mpeg" />
-      <description><![CDATA[]]></description>
-    </item>
-
-  </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Viva Morhange</title>
+<link>https://audioblog.arteradio.com</link>
+<description>Viva Morhange, la voix des Morhangeoises et Morhangeois.</description>
+<language>fr</language>
+<pubDate>Tue, 31 Mar 2026 16:54:10 +0200</pubDate>
+<copyright>Copyright 2026 Viva Morhange</copyright>
+<image>
+<title>Viva Morhange</title>
+<url>https://back-audioblog.arteradio.com/sites/default/files/pictures/origin_272416_zCf1l.jpg</url>
+<link>https://audioblog.arteradio.com</link>
+</image>
+<itunes:author>Viva Morhange</itunes:author>
+<itunes:image href="https://back-audioblog.arteradio.com/sites/default/files/pictures/origin_272416_zCf1l.jpg"/>
+<itunes:owner>
+<itunes:email>vivamorhange@gmail.com</itunes:email>
+<itunes:name>Les audioblogs par ARTE Radio</itunes:name>
+</itunes:owner>
+<itunes:category text="Society & Culture"/>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<title>Viva Morhange</title>
+<link>https://audioblog.arteradio.com/blog/272416/podcast/272417</link>
+<pubDate>Tue, 31 Mar 2026 17:04:28 +0200</pubDate>
+<description>Mozart</description>
+<author>vivamorhange@gmail.com (Viva Morhange)</author>
+<guid isPermaLink="false">46eec716-9890-4551-a147-a9c4fa68783b</guid>
+<enclosure url="https://back-audioblog.arteradio.com/sites/default/files/audios/origin_podcast_272417_3O1Aa.mp3" type="audio/mpeg" length="49047783"/>
+<itunes:summary>Mozart</itunes:summary>
+<itunes:keywords>morhange, morhangeois, viva morhange, ville morhange</itunes:keywords>
+<itunes:duration>01:17:51</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>Viva Morhange</itunes:author>
+<itunes:image href="https://back-audioblog.arteradio.com/sites/default/files/pictures/origin_272417_30iKe.jpg"/>
+</item>
+</channel>
 </rss>
