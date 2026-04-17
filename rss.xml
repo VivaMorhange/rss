@@ -8,52 +8,18 @@
     <language>fr-fr</language>
     <item>
       <title>Annonce 1</title>
-      <pubDate>Fri, 17 Apr 2026 10:02:59 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 14:10:09 +0200</pubDate>
       <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.]]></description>
     </item>
     <item>
       <title>Annonces Audio</title>
       <pubDate>Fri, 17 Apr 2026 10:15:41 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/Annonces.mp3" length="5179000" type="audio/mpeg" />
+      <enclosure url="https://vivamorhange.github.io/rss/audio/VivaMorhange.mp3" length="5219000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>Morhange ou zone de guerre</title>
-      <pubDate>Thu, 16 Apr 2026 10:35:24 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/MorhangeOuZoneDeGuerre.mp3" length="1576000" type="audio/mpeg" />
-      <description><![CDATA[Portrait :]]></description>
-    </item>
-    <item>
-      <title>Annonce 2</title>
-      <pubDate>Sat, 11 Apr 2026 19:38:11 +0200</pubDate>
-      <description><![CDATA[Sondage :
-
-Sécurité à Morhange : votre avis compte.
-La sécurité d’une ville repose sur plusieurs acteurs : les habitants, la commune… et bien sûr notre gendarmerie, qui joue un rôle essentiel au quotidien.
-Ces dernières années, beaucoup ressentent une dégradation du climat sécuritaire.
-Face à certaines situations ou certaines personnes, notre gendarmerie semble parfois impuissante, et cela interroge.
-L’objectif de ce sondage n’est pas de juger, mais de comprendre.
-Comprendre ce qui fonctionne, ce qui manque, et ce que les habitants vivent réellement.
-Selon vous, la gendarmerie est‑elle efficace aujourd’hui ?
-
-Sondage :
-
-Le Marché de Morhange
-Il y a plusieurs années, la mairie a décidé de déplacer le marché hebdomadaire de la place Bérot vers le parking du centre socioculturel.
-Depuis ce changement, le marché s’est fortement réduit : moins de vendeurs, moins de clients, moins de vie.
-Aujourd’hui, beaucoup se demandent si ce déplacement a vraiment été bénéfique pour Morhange.
-Pour avancer ensemble, nous aimerions connaître votre avis.
-Le marché doit-il rester à son emplacement actuel, ou revenir sur la place Bérot, plus large, plus visible et historiquement dédiée au marché... et sécurisée si besoin ?
-
-Pour que ce sondage reflète vraiment la voix de la ville, n’hésitez pas à le partager autour de vous : plus il circule, plus l’avis collectif sera lisible.
-Vous pouvez aussi expliquer votre choix en commentaire :
-chaque expérience compte, que vous soyez habitant, commerçant ou simple visiteur du marché.
-
-]]></description>
-    </item>
-    <item>
       <title>CONSEIL MUNICIPAL</title>
-      <pubDate>Sat, 11 Apr 2026 10:40:38 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 10:40:38 +0200</pubDate>
       <description><![CDATA[CONSEIL MUNICIPAL DE MORHANGE
 
 
@@ -87,7 +53,7 @@ Finances :
     </item>
     <item>
       <title>Dédicaces citoyennes</title>
-      <pubDate>Sat, 11 Apr 2026 09:19:19 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2026 09:19:19 +0200</pubDate>
       <description><![CDATA[Nouveauté Viva Morhange !
 Nos annonces Alexa peuvent inclure vos dédicaces citoyennes.
 Un anniversaire, un merci, un clin d’œil, une pensée pour un voisin ou une équipe ?
@@ -96,6 +62,17 @@ Parce qu’à Morhange, même la technologie sait dire “bravo”, “merci” 
 Une façon simple, moderne et conviviale de faire entendre vos voix… autrement.
 
 A bientôt sur Viva Morhange]]></description>
+    </item>
+    <item>
+      <title />
+      <pubDate>Thu, 16 Apr 2026 10:35:24 +0200</pubDate>
+      <description><![CDATA[Portrait :]]></description>
+    </item>
+    <item>
+      <title />
+      <pubDate>Sat, 11 Apr 2026 19:38:11 +0200</pubDate>
+      <description><![CDATA[
+]]></description>
     </item>
   </channel>
 </rss>
