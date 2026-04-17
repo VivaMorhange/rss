@@ -8,13 +8,13 @@
     <language>fr-fr</language>
     <item>
       <title>Annonce 1</title>
-      <pubDate>Fri, 17 Apr 2026 14:10:09 +0200</pubDate>
+      <pubDate>ven., 17 avr. 2026 14:10:09 +0200</pubDate>
       <description><![CDATA[Bienvenue sur Viva Morhange. Annonces, sondages et actualités citoyennes.]]></description>
     </item>
     <item>
       <title>Annonces Audio</title>
       <pubDate>Fri, 17 Apr 2026 10:15:41 +0200</pubDate>
-      <enclosure url="https://vivamorhange.github.io/rss/audio/VivaMorhange.mp3" length="5219000" type="audio/mpeg" />
+      <enclosure url="https://vivamorhange.github.io/rss/audio/VivaMorhange.mp3" length="7238000" type="audio/mpeg" />
       <description><![CDATA[]]></description>
     </item>
     <item>
